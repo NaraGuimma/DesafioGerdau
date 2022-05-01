@@ -1,0 +1,11 @@
+pandas
+jupyterlab
+seaborn
+matplotlib
+pystan==2.19.1.1
+prophet
+plotnine
+numpy
+statsmodels
+openpyxl
+xlrd
