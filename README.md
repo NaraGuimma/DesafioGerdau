@@ -3,7 +3,7 @@
 Ola, somos o time Jaqueline Goes, composto por:
 
 - Camila Cestari [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/camilacc/)&nbsp;[![GitHub](https://i.stack.imgur.com/tskMh.png) ](https://github.com/ariadne-thread)
-- Carla Mendes [![Linkedin](https://i.stack.imgur.com/gVE0j.png) ](br.linkedin.com/in/carlamendescms)&nbsp;[![GitHub](https://i.stack.imgur.com/tskMh.png) ](https://github.com/carlamendescms)
+- Carla Mendes [![Linkedin](https://i.stack.imgur.com/gVE0j.png) ](https://br.linkedin.com/in/carlamendescms)&nbsp;[![GitHub](https://i.stack.imgur.com/tskMh.png) ](https://github.com/carlamendescms)
 - Claudia Santos [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/claudia-santos13/)&nbsp;[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/clau-santos)
 - Leticia Shiota [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/leticia-shiota-36597954/)&nbsp;[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/leshiota)
 - Lizandra Foeguer [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/lizandrabf/)&nbsp;[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/lizandrabf)
